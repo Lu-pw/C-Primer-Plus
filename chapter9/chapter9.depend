@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1570609878 source:e:\mycppspace\learn\chapter9\main.cpp
+	<iostream>
+
+1570600962 source:e:\mycppspace\learn\chapter9\src\coordin.cpp
+
+1570606555 source:e:\mycppspace\learn\chapter9\file1.cpp
+	<iostream>
+	"coordin.h"
+
+1570605191 e:\mycppspace\learn\chapter9\coordin.h
+
+1570605174 source:e:\mycppspace\learn\chapter9\file2.cpp
+	<iostream>
+	<cmath>
+	"coordin.h"
+
+1570609064 source:e:\mycppspace\learn\chapter9\aver.cpp
+
+1570609726 source:e:\mycppspace\learn\chapter9\problem6.cpp
+	<iostream>
+

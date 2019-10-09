@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1570498417 source:e:\mycppspace\learn\chapter6\main.cpp
+	<iostream>
+	<cctype>
+	<array>
+	<fstream>
+	<unistd.h>
+	<stdio.h>
+

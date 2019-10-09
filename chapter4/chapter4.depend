@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1570430488 source:e:\mycppspace\learn\chapter4\main.cpp
+	<iostream>
+	"fish.h"
+	<string>
+	<vector>
+	<array>
+
+1570361966 source:e:\mycppspace\learn\chapter4\src\fish.cpp
+
+1570361470 e:\mycppspace\learn\chapter4\include\fish.h
+	<string>
+	<iostream>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1570438901 source:e:\mycppspace\learn\chapter5\main.cpp
+	<iostream>
+	<array>
+	<string>
+	<cstring>
+
