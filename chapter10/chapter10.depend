@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1570691680 source:e:\mycppspace\learn\chapter10\src\bank_account.cpp
+
+1570779520 source:e:\mycppspace\learn\chapter10\main.cpp
+	<iostream>
+	"list.h"
+
+1570690517 e:\mycppspace\learn\chapter10\include\bank_account.h
+	<string>
+	<cstring>
+	<iostream>
+	<cstring>
+
+1570693032 e:\mycppspace\learn\chapter10\include\person.h
+	<cstring>
+	<string>
+	<iostream>
+
+1570693032 source:e:\mycppspace\learn\chapter10\src\person.cpp
+
+1570694723 e:\mycppspace\learn\chapter10\include\golf.h
+	<iostream>
+	<string>
+	<cstring>
+
+1570694880 source:e:\mycppspace\learn\chapter10\src\golf.cpp
+
+1570707698 source:e:\mycppspace\learn\chapter10\src\sales.cpp
+
+1570707517 e:\mycppspace\learn\chapter10\include\sales.h
+	<iostream>
+	<string>
+
+1570709244 source:e:\mycppspace\learn\chapter10\src\stack.cpp
+
+1570709152 e:\mycppspace\learn\chapter10\include\stack.h
+
+1570758084 source:e:\mycppspace\learn\chapter10\src\move.cpp
+
+1570758156 e:\mycppspace\learn\chapter10\include\move.h
+	<iostream>
+
+1570774904 source:e:\mycppspace\learn\chapter10\src\plog.cpp
+
+1570774904 e:\mycppspace\learn\chapter10\include\plog.h
+	<iostream>
+
+1570777352 source:e:\mycppspace\learn\chapter10\src\list.cpp
+
+1570777081 e:\mycppspace\learn\chapter10\include\list.h
+	<iostream>
+

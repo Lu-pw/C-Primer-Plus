@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1570867341 source:e:\mycppspace\learn\chapter11\main.cpp
+	<iostream>
+	"Stonewt.h"
+	"mytime1.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"vect.h"
+	<fstream>
+	"vect2.h"
+	"mytime3.h"
+	"mytime4.h"
+	"Stonewt5.h"
+	"stonewt6.h"
+
+1570782451 source:e:\mycppspace\learn\chapter11\src\stonewt.cpp
+
+1570782451 e:\mycppspace\learn\chapter11\include\stonewt.h
+	<iostream>
+
+1570796963 source:e:\mycppspace\learn\chapter11\src\stonewt4.cpp
+
+1570797655 source:e:\mycppspace\learn\chapter11\src\mytime1.cpp
+
+1570797650 e:\mycppspace\learn\chapter11\include\mytime1.h
+	<iostream>
+
+1570798629 source:e:\mycppspace\learn\chapter11\src\randwalk.cpp
+
+1570839616 e:\mycppspace\learn\chapter11\include\vect.h
+	<iostream>
+
+1570839547 source:e:\mycppspace\learn\chapter11\src\vect.cpp
+	<cmath>
+
+1570844619 e:\mycppspace\learn\chapter11\include\vect2.h
+	<iostream>
+	<cmath>
+
+1570844619 source:e:\mycppspace\learn\chapter11\src\vect2.cpp
+	<cmath>
+
+1570851875 e:\mycppspace\learn\chapter11\include\mytime3.h
+	<iostream>
+
+1570851544 source:e:\mycppspace\learn\chapter11\src\mytime3.cpp
+
+1570852028 e:\mycppspace\learn\chapter11\include\mytime4.h
+	<iostream>
+
+1570859987 source:e:\mycppspace\learn\chapter11\src\mytime4.cpp
+
+1570861813 source:e:\mycppspace\learn\chapter11\src\stownewt5.cpp
+
+1570865356 e:\mycppspace\learn\chapter11\include\stonewt5.h
+	<iostream>
+
+1570864895 source:e:\mycppspace\learn\chapter11\src\stonewt5.cpp
+
+1570864382 source:e:\mycppspace\learn\chapter11\include\stonewt5.h
+	<iostream>
+
+1570866586 source:e:\mycppspace\learn\chapter11\src\stonewt6.cpp
+
+1570867178 e:\mycppspace\learn\chapter11\include\stonewt6.h
+
+1570869454 source:e:\mycppspace\learn\chapter11\src\complex0.cpp
+
