@@ -1,6 +1,7 @@
 # depslib dependency file v1.0
-1570609878 source:e:\mycppspace\learn\chapter9\main.cpp
-	<iostream>
+1570626860 source:e:\mycppspace\learn\chapter9\main.cpp
+	"golf.h"
+	"sales.h"
 
 1570600962 source:e:\mycppspace\learn\chapter9\src\coordin.cpp
 
@@ -17,6 +18,22 @@
 
 1570609064 source:e:\mycppspace\learn\chapter9\aver.cpp
 
-1570609726 source:e:\mycppspace\learn\chapter9\problem6.cpp
+1570612971 source:e:\mycppspace\learn\chapter9\problem6.cpp
+
+1570611579 source:e:\mycppspace\learn\chapter9\golf.cpp
+
+1570612923 e:\mycppspace\learn\chapter9\include\golf.h
 	<iostream>
+	<string>
+	<cstring>
+	<cctype>
+	<new>
+
+1570613784 source:e:\mycppspace\learn\chapter9\src\golf.cpp
+
+1570626504 e:\mycppspace\learn\chapter9\include\sales.h
+	<iostream>
+	<array>
+
+1570626810 source:e:\mycppspace\learn\chapter9\src\sales.cpp
 

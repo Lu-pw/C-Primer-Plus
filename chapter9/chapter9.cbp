@@ -38,8 +38,14 @@
 		<Unit filename="coordin.h" />
 		<Unit filename="file1.cpp" />
 		<Unit filename="file2.cpp" />
+		<Unit filename="golf.cpp" />
+		<Unit filename="include/golf.h" />
+		<Unit filename="include/sales.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="problem6.cpp" />
 		<Unit filename="src/coordin.cpp" />
+		<Unit filename="src/golf.cpp" />
+		<Unit filename="src/sales.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
