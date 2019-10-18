@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1571270187 source:e:\mycppspace\learn\chapter13\src\cd.cpp
+	"Cd.h"
+
+1571270413 e:\mycppspace\learn\chapter13\include\cd.h
+	<cstring>
+	<iostream>
+
+1571270338 source:e:\mycppspace\learn\chapter13\src\classic.cpp
+	"classic.h"
+	<iostream>
+	<cstring>
+
+1571269996 e:\mycppspace\learn\chapter13\include\classic.h
+	<iostream>
+	<cstring>
+	"Cd.h"
+
+1571385020 source:e:\mycppspace\learn\chapter13\main.cpp
+	<iostream>
+	"classic.h"
+	"classic2.h"
+	"dma.h"
+	"Port.h"
+
+1571319252 source:e:\mycppspace\learn\chapter13\src\cd2.cpp
+
+1571319171 source:e:\mycppspace\learn\chapter13\src\classic2.cpp
+	<iostream>
+	<cstring>
+
+1571318949 e:\mycppspace\learn\chapter13\include\classic2.h
+	<iostream>
+	<cstring>
+	"Cd2.h"
+
+1571317193 e:\mycppspace\learn\chapter13\include\cd2.h
+	<iostream>
+	<cstring>
+
+1571369856 source:e:\mycppspace\learn\chapter13\src\dma.cpp
+
+1571369792 e:\mycppspace\learn\chapter13\include\dma.h
+	<cstring>
+	<iostream>
+
+1571383755 source:e:\mycppspace\learn\chapter13\src\port.cpp
+
+1571381369 e:\mycppspace\learn\chapter13\include\port.h
+	<iostream>
+	<cstring>
+
