@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1571404397 source:e:\mycppspace\learn\chapter14\src\winec.cpp
+
+1571403316 source:e:\mycppspace\learn\chapter14\src\pair.cpp
+
+1571404752 source:e:\mycppspace\learn\chapter14\main.cpp
+	<iostream>
+	"winec.h"
+
+1571404302 e:\mycppspace\learn\chapter14\include\winec.h
+	<iostream>
+	<valarray>
+	"pair.h"
+	<cstring>
+	<string>
+
+1571403512 e:\mycppspace\learn\chapter14\include\pair.h
+
