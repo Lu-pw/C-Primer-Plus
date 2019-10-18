@@ -13,6 +13,7 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-g" />
+					<Add directory="include" />
 				</Compiler>
 			</Target>
 			<Target title="Release">
@@ -22,6 +23,7 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-O2" />
+					<Add directory="include" />
 				</Compiler>
 				<Linker>
 					<Add option="-s" />
@@ -32,7 +34,18 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/Cow.h" />
+		<Unit filename="include/Stack.h" />
+		<Unit filename="include/Stock.h" />
+		<Unit filename="include/String2.h" />
+		<Unit filename="include/queue.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="src/Cow.cpp" />
+		<Unit filename="src/Stack.cpp" />
+		<Unit filename="src/Stock.cpp" />
+		<Unit filename="src/String2.cpp" />
+		<Unit filename="src/chapter13.cpp" />
+		<Unit filename="src/queue.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />

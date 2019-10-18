@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1570881914 source:e:\mycppspace\learn\chapter12\src\cow.cpp
+
+1571121432 source:e:\mycppspace\learn\chapter12\main.cpp
+	<iostream>
+	"Cow.h"
+	"String2.h"
+	"queue.h"
+	<ctime>
+
+1570881956 e:\mycppspace\learn\chapter12\include\cow.h
+	<iostream>
+	<cstring>
+	<string>
+
+1571061630 source:e:\mycppspace\learn\chapter12\src\string2.cpp
+
+1571060286 e:\mycppspace\learn\chapter12\include\string2.h
+	<cstring>
+	<string>
+	<iostream>
+
+1571102034 source:e:\mycppspace\learn\chapter12\src\stock.cpp
+
+1571101462 e:\mycppspace\learn\chapter12\include\stock.h
+	<iostream>
+	<string>
+	<cstring>
+
+1571105679 e:\mycppspace\learn\chapter12\include\stack.h
+	<iostream>
+
+1571105772 source:e:\mycppspace\learn\chapter12\src\stack.cpp
+
+1571109451 source:e:\mycppspace\learn\chapter12\src\queue.cpp
+	<cstdlib>
+	<ctime>
+
+1571122072 e:\mycppspace\learn\chapter12\include\queue.h
+	<iostream>
+
