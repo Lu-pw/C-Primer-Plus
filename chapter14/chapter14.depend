@@ -3,9 +3,14 @@
 
 1571403316 source:e:\mycppspace\learn\chapter14\src\pair.cpp
 
-1571404752 source:e:\mycppspace\learn\chapter14\main.cpp
+1571471361 source:e:\mycppspace\learn\chapter14\main.cpp
 	<iostream>
 	"winec.h"
+	"wine2.h"
+	"queueTp.h"
+	"worker.h"
+	"Person.h"
+	"emp.h"
 
 1571404302 e:\mycppspace\learn\chapter14\include\winec.h
 	<iostream>
@@ -15,4 +20,36 @@
 	<string>
 
 1571403512 e:\mycppspace\learn\chapter14\include\pair.h
+
+1571407716 e:\mycppspace\learn\chapter14\include\wine2.h
+	<iostream>
+	<string>
+	<valarray>
+	"pair.h"
+
+1571407794 source:e:\mycppspace\learn\chapter14\src\wine2.cpp
+
+1571445554 source:e:\mycppspace\learn\chapter14\src\worker.cpp
+
+1571449087 source:e:\mycppspace\learn\chapter14\src\queuetp.cpp
+
+1571449958 e:\mycppspace\learn\chapter14\include\queuetp.h
+
+1571445602 e:\mycppspace\learn\chapter14\include\worker.h
+	<iostream>
+	<string>
+
+1571456057 source:e:\mycppspace\learn\chapter14\src\person.cpp
+
+1571460936 e:\mycppspace\learn\chapter14\include\person.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+
+1571471224 source:e:\mycppspace\learn\chapter14\src\emp.cpp
+
+1571467167 e:\mycppspace\learn\chapter14\include\emp.h
+	<iostream>
+	<string>
 

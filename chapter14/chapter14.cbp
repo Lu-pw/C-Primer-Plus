@@ -34,13 +34,21 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/Person.h" />
+		<Unit filename="include/emp.h" />
 		<Unit filename="include/pair.h" />
+		<Unit filename="include/queueTp.h" />
 		<Unit filename="include/wine2.h" />
 		<Unit filename="include/winec.h" />
+		<Unit filename="include/worker.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="src/Person.cpp" />
+		<Unit filename="src/emp.cpp" />
 		<Unit filename="src/pair.cpp" />
+		<Unit filename="src/queueTp.cpp" />
 		<Unit filename="src/wine2.cpp" />
 		<Unit filename="src/winec.cpp" />
+		<Unit filename="src/worker.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
