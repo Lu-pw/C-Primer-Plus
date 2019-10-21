@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1571645558 source:e:\mycppspace\learn\chapter15\main.cpp
+	<iostream>
+	"Enum_tv.h"
+	"exc_mean.h"
+	<cmath>
+	<stdexcept>
+
+1571642789 e:\mycppspace\learn\chapter15\include\tv.h
+	<iostream>
+
+1571642842 source:e:\mycppspace\learn\chapter15\src\tv.cpp
+
+1571618186 source:e:\mycppspace\learn\chapter15\src\exc_mean.cpp
+
+1571619008 e:\mycppspace\learn\chapter15\include\exc_mean.h
+	<iostream>
+
+1571643069 source:e:\mycppspace\learn\chapter15\src\enum_tv.cpp
+
+1571643013 e:\mycppspace\learn\chapter15\include\enum_tv.h
+	<iostream>
+
